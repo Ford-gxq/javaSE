@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  注释
+        xml的作用: 对数据的存储,解析,传输,配置
+        1.xml是一个标记语言|标签语言  <>
+        2.一个xml文件首行必须存在一个版本声明
+        3.有且仅有跟标签|根元素
+        4.标签根据需求进行自定义
+        5.标签可以成对编写,可以定义单标签,根据标签中是否需要定义内容决定
+        6.XML是一个语法格式要求严禁的标记语言,与HTML不同,html非常松散
+        7.标签中可以定义子标签,标签上可以定义属性
+        8.属性: 用来帮助更完整的展示标签的作用  属性名=属性值
+ -->
+<Person>
+   <person id="1001">
+        <name>张三</name>
+        <age>18</age>
+        <address>河南</address>
+   </person>
+   <person id="1002">
+       <name>李四</name>
+       <age>19</age>
+       <address>上海</address>
+   </person>
+  <student>
+      <name>王五</name>
+      <age>19</age>
+      <address>武汉</address>
+  </student>
+</Person>

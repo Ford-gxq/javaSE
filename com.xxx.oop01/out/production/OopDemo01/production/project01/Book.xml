@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--书面信息-->
+<Book>
+    <book>
+        <name>Java</name>
+        <pbulisher>清华大学出版社</pbulisher>
+        <price>35元</price>
+    </book>
+    <book>
+        <name>数据库</name>
+        <pbulisher>电子信息出版社</pbulisher>
+        <price>58元</price>
+    </book>
+</Book>
