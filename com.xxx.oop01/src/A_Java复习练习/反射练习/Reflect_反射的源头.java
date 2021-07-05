@@ -16,7 +16,7 @@ package A_Java复习练习.反射练习;
  *
  * */
 
-public class Reflect_反射的源头 {
+public class Reflect_Origin {
     public static void main(String[] args) throws ClassNotFoundException {
     //0bject P =Class.forName(" com.xxxx.reflecte1.Apple").newInstance();
         //1.获取Class对象
